@@ -62,5 +62,4 @@ Future Improvements
 - Include external macroeconomic variables
 
 Department of Statistics  
-Federal University of Technology Minna# nigeria-inflation-arima-model
-ModellingNigeria’s inflation rate using ARIMA model
+Federal University of Technology Minna
